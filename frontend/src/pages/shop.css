@@ -1,0 +1,45 @@
+#rectangle{
+    width:350px;
+    height:150px;
+    border:1px solid black;
+    border-radius: 3px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 90px;
+    box-shadow: 2px 3px 2px rgba(0,0,0,0.67);
+}
+
+#rectangle:hover{
+    background-color:  rgba(0, 0, 0, 0.47);
+    color: white;
+}
+
+
+h2{
+    margin-left: 50px;
+    margin-top:20px;
+    font-size: 2.7em;
+}
+
+button{
+    float: right;
+    margin-right: 50px;
+    font-size: 1.2em;
+    margin-top: 5px;
+    border: 1px solid black;
+    background:none;
+    border-radius: 3px;
+    padding: 5px;
+    box-shadow: 2px 3px 2px rgba(0,0,0,0.67);
+}
+
+button:hover{
+    background-color:rgba(0, 0, 0, 0.67);
+    color:white;
+    border: 1px solid black;
+}
+
+p{
+    margin-top: 15px;
+    margin-left: 50px;
+}
